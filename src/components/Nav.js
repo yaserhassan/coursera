@@ -1,11 +1,5 @@
-import React from 'react'
-
-const Nav = () => {
-    return (
-        <div>
-            <p>cccc</p>
-        </div>
-    )
+function Nav () {
+    return ( <p>jjjj</p> );
 }
 
-export default Nav;
+export default Nav ;<p>jjjj</p>
