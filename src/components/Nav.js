@@ -31,13 +31,13 @@ const Nav = () => {
           <a href="/">Services</a>
         </li>
         <li>
-          <a href="/">Menu</a>
+          <a href="/Menu">Menu</a>
         </li>
         <li>
-          <a href="/">Reservations</a>
+          <a href="/Booking">Reservations</a>
         </li>
         <li>
-          <a href="/">Order Online</a>
+          <a href="/Booking">Order Online</a>
         </li>
         <li>
           <a href="/">Login</a>
